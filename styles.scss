@@ -1,0 +1,44 @@
+body {
+  position: relative; }
+
+#carouselimg1 {
+  max-width: 100%;
+  height: auto;
+  top: 0px; }
+
+#carouselimg2 {
+  top: 0px; }
+
+#carouselimg3 {
+  top: 0px; }
+
+#logoblock {
+  background-image: linear-gradient(25deg, #FFFFFF, #333333 55%, #000000);
+  overflow: hidden; }
+
+#logoimg {
+  padding-left: 5%;
+  padding-right: 30% }
+
+#navbar1 {
+  padding-left: 7%;
+  background-color: #000000; }
+
+#welcome {
+  background-color: black;
+  color: white;
+  height: 700px;
+  padding-left: 40px;
+  padding-top: 200px; }
+
+#projects {
+  background-color: green;
+  height: 500px; }
+
+.nav-item-spacing {
+  padding-left: 5%; }
+
+.carousel-inner {
+  height: auto; }
+
+@import "node_modules/bootstrap/scss/bootstrap";
